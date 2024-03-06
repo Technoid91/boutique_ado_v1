@@ -2,184 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca279f9b-fc82-4b72-88b3-0799c6e0fc1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/media/0900631B8140782DM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/0900631B8142A3AFM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/0900631B818ABCB9M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/0900631B81B0C2D9M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/0900631B81C9387BM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/0900631B81D6766FM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/0900631B81D676AEM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/0900631B81E48245M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0105201617024447M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0107201603172435M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0113201417050002M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0113201523230512M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0113201617034987M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0119201620405230C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0126201620545687C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0204201517030626M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0213201417022274M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0216201620412947C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0216201620424511C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0217201617074443M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0217201617084849M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0218201621532296C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0219201502115503C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0224201517023517M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0224201617043146M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0224201620571013C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0226201317034754M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0226201617023618M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0226201617024158M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0226201620313565C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0302201517030242M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0304201620452035C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0309201620474626C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0310201620422443C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0316201621115243C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0320201517010207M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0322201617031084M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0322201617031125M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0323201517042926M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0325201617032503M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0325201617032536M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0401201417083996M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0401201517030651M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0403201417141773M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0404201617034330M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0404201617034496M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0405201620454892C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0407201620401180C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0408201517021489M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0408201617014664M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0411201617053625M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0413201617045408M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0413201617045423M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0414201520383920C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0414201617030734M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0418201317011949M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0421201520311379C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0421201617033514M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0421201617033561M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0422201517022488M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0422201617033665M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0428201617042837M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0429201617074742M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0430201405053680M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0430201405113681M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0430201405213832M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0430201405232442M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0510201317010521M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0515201517012588M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0515201517013144M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0519201417080443M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0519201517025089M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0526201517022624M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0526201623053167C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0527201517022924M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0527201520374912C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0608201517025373M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0608201517035688M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0608201517035747M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0608201517035763M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0610201317080834M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0612201517032350M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0623201517030671M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0623201517030686M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0624201520422666C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0702201517031050M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0702201517033643M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0709201205510679M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0710201517034239M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0714201504201760M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0715201417203832M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0716201503421212M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0716201503423610M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0716201517033520M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0717201517041911M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0721201517041500M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0722201417110136M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0722201517022951M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0724201517024000M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0724201517031934M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0726201317024762M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0731201517024285M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0731201517031510M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0805201517023421M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0805201520415923C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0807201317072274M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0807201317072924M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0807201517015600M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0810201517010458M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0820201517013830M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0821201317103183M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0828201517024772M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0828201517030241M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0831201520432399C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0903201517023529M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0908201517020936M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0915201413433903C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0917201317033820M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0917201520473680C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0918201520303373C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0919201417043014M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0921201517052786M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0921201517052807M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0926201317071162M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0927201317061305M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0929201502575389M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP0930201517050189M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1002201517022007M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1008201517035763M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1014201517031451M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1014201517033744M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1015201417131329M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1016201517075816M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1016201517091568M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1017201420511297C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1019201520531375C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1020201517025390M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1021201517031368M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1022201517023782M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1023201317051585M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1028201517024563M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1029201317111469M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1030201517035843M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1104201517020304M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1104201517021565M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1105201517015618M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1106201517012318M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1108201317050996M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1109201517012575M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1112201517050819M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1115201210371197C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1119201517043586M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1119201520340305C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1124201417012025M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1124201517014225M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1202201412542357M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1202201502000682M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1202201517021959M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1202201517023245M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1208201517020379M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1211201503400830M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1216201517030998M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1216201517031308M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1218201517095959M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1220201417020921M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1222201517041287M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1223201517040398M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1228201517142050M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1230201417013175M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/DP1230201520420777C.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/homepage_background_cropped.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/noimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/fixtures/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products/fixtures/products.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boutique_ado/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/boutique_ado/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,6 +14,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/boutique_ado/settings.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -213,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/products/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="300">
+              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -225,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -239,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/home/views.py" />
         <option value="$PROJECT_DIR$/home/urls.py" />
         <option value="$PROJECT_DIR$/home/templates/home/index.html" />
@@ -249,8 +82,9 @@
         <option value="$PROJECT_DIR$/templates/includes/mobile-top-header.html" />
         <option value="$PROJECT_DIR$/static/css/base.css" />
         <option value="$PROJECT_DIR$/boutique_ado/settings.py" />
-        <option value="$PROJECT_DIR$/products/models.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/products/models.py" />
         <option value="$PROJECT_DIR$/products/admin.py" />
       </list>
     </option>
@@ -323,15 +157,16 @@
       <option name="presentableId" value="Default" />
       <updated>1709030647525</updated>
       <workItem from="1709030649353" duration="10624000" />
-      <workItem from="1709726896109" duration="2306000" />
+      <workItem from="1709726896109" duration="3157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12930000" />
+    <option name="totallyTimeSpent" value="13781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25377643" />
@@ -374,13 +209,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -451,13 +279,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -475,10 +296,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/admin.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>

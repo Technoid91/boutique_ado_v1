@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/includes/main-nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="45" column="74" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
+            <state relative-caret-position="120">
+              <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/products/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            <state relative-caret-position="309">
+              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
               <folding>
                 <element signature="e#0#73#0" expanded="true" />
               </folding>
@@ -168,22 +168,22 @@
       <updated>1709030647525</updated>
       <workItem from="1709030649353" duration="10624000" />
       <workItem from="1709726896109" duration="4064000" />
-      <workItem from="1710096463166" duration="7032000" />
+      <workItem from="1710096463166" duration="8532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21720000" />
+    <option name="totallyTimeSpent" value="23220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25755286" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25755286" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3078101" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3078101" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3295129" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.3295129" />
@@ -339,15 +339,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/includes/main-nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="45" column="74" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
+        <state relative-caret-position="120">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        <state relative-caret-position="309">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>

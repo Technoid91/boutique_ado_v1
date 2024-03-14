@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca279f9b-fc82-4b72-88b3-0799c6e0fc1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bag/templates/bag/bag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bag/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bag/contexts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/boutique_ado/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/boutique_ado/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boutique_ado/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/boutique_ado/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/templates/products/product_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/product_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/templates/products/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/includes/mobile-top-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/includes/mobile-top-header.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +23,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bag/templates/bag/bag.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            <state relative-caret-position="222">
+              <caret line="36" column="66" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bag/contexts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boutique_ado/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="159" column="33" selection-start-line="159" selection-start-column="33" selection-end-line="159" selection-end-column="33" />
+              <folding>
+                <element signature="e#314#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="129" column="93" selection-start-line="129" selection-start-column="93" selection-end-line="129" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -60,14 +85,15 @@
         <option value="$PROJECT_DIR$/products/templates/products/products.html" />
         <option value="$PROJECT_DIR$/products/templates/products/product_detail.html" />
         <option value="$PROJECT_DIR$/products/views.py" />
-        <option value="$PROJECT_DIR$/boutique_ado/settings.py" />
         <option value="$PROJECT_DIR$/bag/views.py" />
         <option value="$PROJECT_DIR$/home/urls.py" />
         <option value="$PROJECT_DIR$/bag/urls.py" />
         <option value="$PROJECT_DIR$/boutique_ado/urls.py" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/templates/includes/mobile-top-header.html" />
         <option value="$PROJECT_DIR$/bag/templates/bag/bag.html" />
+        <option value="$PROJECT_DIR$/boutique_ado/settings.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/bag/contexts.py" />
       </list>
     </option>
   </component>
@@ -93,6 +119,11 @@
               <item name="boutique_ado_v1" type="b2602c69:ProjectViewProjectNode" />
               <item name="boutique_ado_v1" type="462c0819:PsiDirectoryNode" />
               <item name="bag" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="boutique_ado_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boutique_ado_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="boutique_ado" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="boutique_ado_v1" type="b2602c69:ProjectViewProjectNode" />
@@ -154,12 +185,12 @@
       <updated>1709030647525</updated>
       <workItem from="1709030649353" duration="10624000" />
       <workItem from="1709726896109" duration="4064000" />
-      <workItem from="1710096463166" duration="12278000" />
+      <workItem from="1710096463166" duration="13056000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26966000" />
+    <option name="totallyTimeSpent" value="27744000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="6" />
@@ -288,16 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boutique_ado/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="47" column="10" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
-          <folding>
-            <element signature="e#314#323#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -325,13 +346,6 @@
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="102" column="87" lean-forward="true" selection-start-line="102" selection-start-column="67" selection-end-line="102" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -368,8 +382,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bag/templates/bag/bag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        <state relative-caret-position="222">
+          <caret line="36" column="66" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boutique_ado/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="159" column="33" selection-start-line="159" selection-start-column="33" selection-end-line="159" selection-end-column="33" />
+          <folding>
+            <element signature="e#314#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="129" column="93" selection-start-line="129" selection-start-column="93" selection-end-line="129" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bag/contexts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

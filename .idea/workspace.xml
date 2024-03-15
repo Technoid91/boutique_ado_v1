@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca279f9b-fc82-4b72-88b3-0799c6e0fc1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/products/templates/products/includes/quantity_input_script.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/templates/products/product_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/products/templates/products/product_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bag/contexts.py" beforeDir="false" afterPath="$PROJECT_DIR$/bag/contexts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bag/templates/bag/bag.html" beforeDir="false" afterPath="$PROJECT_DIR$/bag/templates/bag/bag.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bag/contexts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+            <state relative-caret-position="262">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bag/templates/bag/bag.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="360">
+              <caret line="158" column="60" selection-start-line="158" selection-start-column="60" selection-end-line="158" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -47,13 +46,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products/templates/products/product_detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="120" column="57" selection-start-line="120" selection-start-column="57" selection-end-line="120" selection-end-column="57" />
+            <state relative-caret-position="270">
+              <caret line="118" selection-start-line="118" selection-end-line="121" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products/templates/products/includes/quantity_input_script.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -105,11 +104,11 @@
         <option value="$PROJECT_DIR$/static/css/base.css" />
         <option value="$PROJECT_DIR$/bag/urls.py" />
         <option value="$PROJECT_DIR$/products/models.py" />
-        <option value="$PROJECT_DIR$/bag/contexts.py" />
         <option value="$PROJECT_DIR$/bag/views.py" />
-        <option value="$PROJECT_DIR$/bag/templates/bag/bag.html" />
         <option value="$PROJECT_DIR$/products/templates/products/product_detail.html" />
         <option value="$PROJECT_DIR$/products/templates/products/includes/quantity_input_script.html" />
+        <option value="$PROJECT_DIR$/bag/contexts.py" />
+        <option value="$PROJECT_DIR$/bag/templates/bag/bag.html" />
       </list>
     </option>
   </component>
@@ -210,22 +209,22 @@
       <updated>1709030647525</updated>
       <workItem from="1709030649353" duration="10624000" />
       <workItem from="1709726896109" duration="4064000" />
-      <workItem from="1710096463166" duration="20329000" />
+      <workItem from="1710096463166" duration="21728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35017000" />
+    <option name="totallyTimeSpent" value="36416000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25755286" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25755286" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3078101" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3078101" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3295129" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32924962" />
@@ -414,16 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bag/contexts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bag/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -431,24 +420,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bag/templates/bag/bag.html">
+    <entry file="file://$PROJECT_DIR$/products/templates/products/includes/quantity_input_script.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        <state relative-caret-position="315">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bag/contexts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/products/templates/products/product_detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="120" column="57" selection-start-line="120" selection-start-column="57" selection-end-line="120" selection-end-column="57" />
+        <state relative-caret-position="270">
+          <caret line="118" selection-start-line="118" selection-end-line="121" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products/templates/products/includes/quantity_input_script.html">
+    <entry file="file://$PROJECT_DIR$/bag/templates/bag/bag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="158" column="60" selection-start-line="158" selection-start-column="60" selection-end-line="158" selection-end-column="60" />
         </state>
       </provider>
     </entry>

@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca279f9b-fc82-4b72-88b3-0799c6e0fc1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/checkout/templates/checkout/checkout_success.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout/templates/checkout/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/templates/checkout/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout/templates/checkout/checkout_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/checkout/templates/checkout/checkout_success.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,32 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/checkout/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="90" selection-start-line="5" selection-start-column="90" selection-end-line="5" selection-end-column="90" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/checkout/templates/checkout/checkout_success.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="40" column="79" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/checkout/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="50" selection-start-column="50" selection-end-column="50" />
+            <state relative-caret-position="100">
+              <caret line="135" column="51" selection-start-line="135" selection-start-column="51" selection-end-line="135" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -119,9 +94,7 @@
         <option value="$PROJECT_DIR$/bag/contexts.py" />
         <option value="$PROJECT_DIR$/static/css/base.css" />
         <option value="$PROJECT_DIR$/templates/includes/toasts/toast_success.html" />
-        <option value="$PROJECT_DIR$/checkout/models.py" />
         <option value="$PROJECT_DIR$/checkout/admin.py" />
-        <option value="$PROJECT_DIR$/checkout/signals.py" />
         <option value="$PROJECT_DIR$/checkout/apps.py" />
         <option value="$PROJECT_DIR$/checkout/forms.py" />
         <option value="$PROJECT_DIR$/boutique_ado/urls.py" />
@@ -134,8 +107,10 @@
         <option value="$PROJECT_DIR$/checkout/views.py" />
         <option value="$PROJECT_DIR$/checkout/urls.py" />
         <option value="$PROJECT_DIR$/checkout/templates/checkout/checkout.html" />
-        <option value="$PROJECT_DIR$/checkout/templates/checkout/checkout_success.html" />
         <option value="$PROJECT_DIR$/checkout/__init__.py" />
+        <option value="$PROJECT_DIR$/checkout/models.py" />
+        <option value="$PROJECT_DIR$/checkout/signals.py" />
+        <option value="$PROJECT_DIR$/checkout/templates/checkout/checkout_success.html" />
       </list>
     </option>
   </component>
@@ -251,12 +226,12 @@
       <workItem from="1709030649353" duration="10624000" />
       <workItem from="1709726896109" duration="4064000" />
       <workItem from="1710096463166" duration="33825000" />
-      <workItem from="1711376207261" duration="12555000" />
+      <workItem from="1711376207261" duration="14389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61068000" />
+    <option name="totallyTimeSpent" value="62902000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,10 +247,10 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2613293" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2613293" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.28796563" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.28796563" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3295129" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32924962" />
@@ -500,32 +475,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/checkout/signals.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#59#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/checkout/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkout/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -646,17 +601,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/checkout/templates/checkout/checkout_success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="40" column="79" selection-start-line="40" selection-start-column="79" selection-end-line="40" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/checkout/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="38" column="102" selection-start-line="38" selection-start-column="102" selection-end-line="38" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout/signals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkout/templates/checkout/checkout_success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="135" column="51" selection-start-line="135" selection-start-column="51" selection-end-line="135" selection-end-column="51" />
         </state>
       </provider>
     </entry>
